@@ -1,2 +1,1 @@
-# nvim_config
-Holds Neovim configuration files
+Basically a repo to represent the current state (more or less) of the files used for my configuration of Neovim.
