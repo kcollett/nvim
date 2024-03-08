@@ -1,4 +1,5 @@
 return {
+    -- active colorscheme specified in ../lazy.lua
     {
 	"bluz71/vim-moonfly-colors",
 	priority = 1000, -- make sure to load this before all the other start plugins

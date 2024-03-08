@@ -17,6 +17,7 @@ require("lazy").setup({
     {import = "kcollett.plugins.lsp"},
 }, {
     install = {
+	-- should match what is setup in plugins/colorscheme.lua
 	colorscheme = { "moonfly" }
     },
     checker = {
